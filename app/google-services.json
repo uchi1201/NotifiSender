@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "913181265507",
+    "project_id": "jeisnotifi2022",
+    "storage_bucket": "jeisnotifi2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913181265507:android:9ee6fc2fbde43160aa3256",
+        "android_client_info": {
+          "package_name": "com.jeis.notifisender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913181265507-pcba1m43p1d1d0p398u74hrn6fke0igf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8Z0puFtzNbyYbZToTVGnawtnRG-iPeFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913181265507-pcba1m43p1d1d0p398u74hrn6fke0igf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
